@@ -1,0 +1,11 @@
+BEE_PLUGIN_NAME="changelog"
+BEE_PLUGIN_VERSION="2.0.0"
+BEE_PLUGIN_LICENSE="MIT"
+BEE_PLUGIN_HOMEPAGE="https://github.com/sschmid/bee-changelog"
+BEE_PLUGIN_AUTHORS="sschmid"
+BEE_PLUGIN_INFO="Merge changes into changelog"
+BEE_PLUGIN_SOURCE_HTTPS="https://github.com/sschmid/bee-changelog.git"
+BEE_PLUGIN_SOURCE_SSH="git@github.com:sschmid/bee-changelog.git"
+BEE_PLUGIN_TAG="2.0.0"
+BEE_PLUGIN_SHA256="9c32e1ed3753959323cde7811b3d2bd0c71fc4c25bca6829534501675f49b233"
+BEE_PLUGIN_DEPENDENCIES=(version)
