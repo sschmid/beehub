@@ -1,0 +1,13 @@
+{
+  "name": "tree",
+  "version": "2.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-tree",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "Create directory and file overviews with tree",
+  "git": "https://github.com/sschmid/bee-tree.git",
+  "tag": "2.0.0",
+  "sha256": "44657c2d0a17502201c10423f1f2597d52125e7a514e40fc1b6e5fae5707b199"
+}
