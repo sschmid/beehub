@@ -1,0 +1,16 @@
+{
+  "name": "plugin",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-plugin",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "Release bee plugins",
+  "git": "https://github.com/sschmid/bee-plugin.git",
+  "tag": "1.0.0",
+  "sha256": "7d484e6acb33b0a72f77f79fedc6106b516ab9bc9d6d68e2e7422d34e166fd81",
+  "dependencies": [
+    "changelog"
+  ]
+}
