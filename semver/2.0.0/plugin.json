@@ -1,0 +1,13 @@
+{
+  "name": "semver",
+  "version": "2.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-semver",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "Read, write and bump version numbers",
+  "git": "https://github.com/sschmid/bee-semver.git",
+  "tag": "2.0.0",
+  "sha256": "fc468564b65f50e233069813f98a6b711b0eb66b813a31828403949f3286c534"
+}
