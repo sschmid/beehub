@@ -1,0 +1,13 @@
+{
+  "name": "unity",
+  "version": "2.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-unity",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "Useful functions for Unity development",
+  "git": "https://github.com/sschmid/bee-unity.git",
+  "tag": "2.0.0",
+  "sha256": "5f0f598eb82431bf18028e17f33e6a6ce6f0269d2781f479657d9b87f2edb540"
+}
