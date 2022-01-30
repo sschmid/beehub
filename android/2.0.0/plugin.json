@@ -1,0 +1,13 @@
+{
+  "name": "android",
+  "version": "2.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-android",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "Useful functions for Android development",
+  "git": "https://github.com/sschmid/bee-android.git",
+  "tag": "2.0.0",
+  "sha256": "a95ce5407424850a2dcb2f3258ffc3690c4f926e48cd3d424908d6ddf718d248"
+}
