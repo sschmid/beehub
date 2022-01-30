@@ -1,0 +1,13 @@
+{
+  "name": "macos",
+  "version": "2.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-macos",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "Useful functions for macOS",
+  "git": "https://github.com/sschmid/bee-macos.git",
+  "tag": "2.0.0",
+  "sha256": "3f7fd758b40a4ab6ba0788b441d83136385870af293d31e23b93591265182dfd"
+}
