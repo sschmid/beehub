@@ -1,0 +1,13 @@
+{
+  "name": "ios",
+  "version": "2.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-ios",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "Useful functions for iOS development",
+  "git": "https://github.com/sschmid/bee-ios.git",
+  "tag": "2.0.0",
+  "sha256": "75849d591595442ee7e2a0c4b7d0232996a0264e38954afcd5da200b8fea1311"
+}
