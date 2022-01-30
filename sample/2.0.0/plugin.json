@@ -1,0 +1,13 @@
+{
+  "name": "sample",
+  "version": "2.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-sample",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "A template for bee plugins",
+  "git": "https://github.com/sschmid/bee-sample.git",
+  "tag": "2.0.0",
+  "sha256": "fa7246912dcd81293beed320c806b1b20976166bd4aad089a001d7f8135c373a"
+}
