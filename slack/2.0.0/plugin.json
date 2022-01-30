@@ -1,0 +1,13 @@
+{
+  "name": "slack",
+  "version": "2.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-slack",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "Send messages via slack",
+  "git": "https://github.com/sschmid/bee-slack.git",
+  "tag": "2.0.0",
+  "sha256": "d470c70dc007a68de36333d883618fa4173f1d864fcf975eb97d1dabab4435ad"
+}
