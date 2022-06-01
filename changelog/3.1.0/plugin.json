@@ -1,0 +1,16 @@
+{
+  "name": "changelog",
+  "version": "3.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-changelog",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "Merge changes into changelog",
+  "git": "https://github.com/sschmid/bee-changelog.git",
+  "tag": "3.1.0",
+  "sha256": "1f798610ccf006107fa57e77bb321cab4dd879da195e4ea89ac0e598fc1ab7db",
+  "dependencies": [
+    "semver"
+  ]
+}
