@@ -1,0 +1,16 @@
+{
+  "name": "github",
+  "version": "2.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/sschmid/bee-github",
+  "authors": [
+    "sschmid"
+  ],
+  "info": "Useful functions for GitHub",
+  "git": "https://github.com/sschmid/bee-github.git",
+  "tag": "2.1.0",
+  "sha256": "38be61d5b61c45b1c5a4659f549e81c3b532be1f1b8bc1e0b906f388a9aadb09",
+  "dependencies": [
+    "semver"
+  ]
+}
